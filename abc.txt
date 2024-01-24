@@ -1,5 +1,2 @@
 qwertyuiopasdfghjklxcvbnm,xcvbnm,
-<<<<<<< HEAD
-=======
 hii aditya
->>>>>>> 0b406525e660c0b84154262747a36b39f6193dce
